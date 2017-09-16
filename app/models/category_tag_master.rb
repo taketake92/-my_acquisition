@@ -1,0 +1,2 @@
+class CategoryTagMaster < ApplicationRecord
+end
